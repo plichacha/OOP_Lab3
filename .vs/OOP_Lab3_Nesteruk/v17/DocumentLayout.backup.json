@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041F\u0435\u0440\u0435\u043D\u043E\u0441\\Khai\\OOP\\Lab - 3\\OOP_Lab3_Nesteruk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72C86592-0330-4CCA-9856-AA61318855C8}|OOP_Lab3_Nesteruk\\OOP_Lab3_Nesteruk.csproj|d:\\\u043F\u0435\u0440\u0435\u043D\u043E\u0441\\khai\\oop\\lab - 3\\oop_lab3_nesteruk\\oop_lab3_nesteruk\\itemrarity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C86592-0330-4CCA-9856-AA61318855C8}|OOP_Lab3_Nesteruk\\OOP_Lab3_Nesteruk.csproj|solutionrelative:oop_lab3_nesteruk\\itemrarity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C86592-0330-4CCA-9856-AA61318855C8}|OOP_Lab3_Nesteruk\\OOP_Lab3_Nesteruk.csproj|d:\\\u043F\u0435\u0440\u0435\u043D\u043E\u0441\\khai\\oop\\lab - 3\\oop_lab3_nesteruk\\oop_lab3_nesteruk\\virtualitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C86592-0330-4CCA-9856-AA61318855C8}|OOP_Lab3_Nesteruk\\OOP_Lab3_Nesteruk.csproj|solutionrelative:oop_lab3_nesteruk\\virtualitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72C86592-0330-4CCA-9856-AA61318855C8}|OOP_Lab3_Nesteruk\\OOP_Lab3_Nesteruk.csproj|d:\\\u043F\u0435\u0440\u0435\u043D\u043E\u0441\\khai\\oop\\lab - 3\\oop_lab3_nesteruk\\oop_lab3_nesteruk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72C86592-0330-4CCA-9856-AA61318855C8}|OOP_Lab3_Nesteruk\\OOP_Lab3_Nesteruk.csproj|solutionrelative:oop_lab3_nesteruk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemRarity.cs",
+              "DocumentMoniker": "D:\\\u041F\u0435\u0440\u0435\u043D\u043E\u0441\\Khai\\OOP\\Lab - 3\\OOP_Lab3_Nesteruk\\OOP_Lab3_Nesteruk\\ItemRarity.cs",
+              "RelativeDocumentMoniker": "OOP_Lab3_Nesteruk\\ItemRarity.cs",
+              "ToolTip": "D:\\\u041F\u0435\u0440\u0435\u043D\u043E\u0441\\Khai\\OOP\\Lab - 3\\OOP_Lab3_Nesteruk\\OOP_Lab3_Nesteruk\\ItemRarity.cs",
+              "RelativeToolTip": "OOP_Lab3_Nesteruk\\ItemRarity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T06:27:30.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VirtualItem.cs",
+              "DocumentMoniker": "D:\\\u041F\u0435\u0440\u0435\u043D\u043E\u0441\\Khai\\OOP\\Lab - 3\\OOP_Lab3_Nesteruk\\OOP_Lab3_Nesteruk\\VirtualItem.cs",
+              "RelativeDocumentMoniker": "OOP_Lab3_Nesteruk\\VirtualItem.cs",
+              "ToolTip": "D:\\\u041F\u0435\u0440\u0435\u043D\u043E\u0441\\Khai\\OOP\\Lab - 3\\OOP_Lab3_Nesteruk\\OOP_Lab3_Nesteruk\\VirtualItem.cs",
+              "RelativeToolTip": "OOP_Lab3_Nesteruk\\VirtualItem.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAA/wK8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T06:27:05.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u041F\u0435\u0440\u0435\u043D\u043E\u0441\\Khai\\OOP\\Lab - 3\\OOP_Lab3_Nesteruk\\OOP_Lab3_Nesteruk\\Program.cs",
+              "RelativeDocumentMoniker": "OOP_Lab3_Nesteruk\\Program.cs",
+              "ToolTip": "D:\\\u041F\u0435\u0440\u0435\u043D\u043E\u0441\\Khai\\OOP\\Lab - 3\\OOP_Lab3_Nesteruk\\OOP_Lab3_Nesteruk\\Program.cs",
+              "RelativeToolTip": "OOP_Lab3_Nesteruk\\Program.cs",
+              "ViewState": "AgIAAEIBAAAAAAAAAAAYwGABAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T06:26:04.083Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

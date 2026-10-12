@@ -1,0 +1,28 @@
+C:\Users\Zuzi\Desktop\Khai\PySec\Lab1\OOP_Lab3_Nesteruk\OOP_Lab3_Nesteruk\bin\Debug\net8.0\OOP_Lab3_Nesteruk.exe
+C:\Users\Zuzi\Desktop\Khai\PySec\Lab1\OOP_Lab3_Nesteruk\OOP_Lab3_Nesteruk\bin\Debug\net8.0\OOP_Lab3_Nesteruk.deps.json
+C:\Users\Zuzi\Desktop\Khai\PySec\Lab1\OOP_Lab3_Nesteruk\OOP_Lab3_Nesteruk\bin\Debug\net8.0\OOP_Lab3_Nesteruk.runtimeconfig.json
+C:\Users\Zuzi\Desktop\Khai\PySec\Lab1\OOP_Lab3_Nesteruk\OOP_Lab3_Nesteruk\bin\Debug\net8.0\OOP_Lab3_Nesteruk.dll
+C:\Users\Zuzi\Desktop\Khai\PySec\Lab1\OOP_Lab3_Nesteruk\OOP_Lab3_Nesteruk\bin\Debug\net8.0\OOP_Lab3_Nesteruk.pdb
+C:\Users\Zuzi\Desktop\Khai\PySec\Lab1\OOP_Lab3_Nesteruk\OOP_Lab3_Nesteruk\obj\Debug\net8.0\OOP_Lab3_Nesteruk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zuzi\Desktop\Khai\PySec\Lab1\OOP_Lab3_Nesteruk\OOP_Lab3_Nesteruk\obj\Debug\net8.0\OOP_Lab3_Nesteruk.AssemblyInfoInputs.cache
+C:\Users\Zuzi\Desktop\Khai\PySec\Lab1\OOP_Lab3_Nesteruk\OOP_Lab3_Nesteruk\obj\Debug\net8.0\OOP_Lab3_Nesteruk.AssemblyInfo.cs
+C:\Users\Zuzi\Desktop\Khai\PySec\Lab1\OOP_Lab3_Nesteruk\OOP_Lab3_Nesteruk\obj\Debug\net8.0\OOP_Lab3_Nesteruk.csproj.CoreCompileInputs.cache
+C:\Users\Zuzi\Desktop\Khai\PySec\Lab1\OOP_Lab3_Nesteruk\OOP_Lab3_Nesteruk\obj\Debug\net8.0\OOP_Lab3_Nesteruk.dll
+C:\Users\Zuzi\Desktop\Khai\PySec\Lab1\OOP_Lab3_Nesteruk\OOP_Lab3_Nesteruk\obj\Debug\net8.0\refint\OOP_Lab3_Nesteruk.dll
+C:\Users\Zuzi\Desktop\Khai\PySec\Lab1\OOP_Lab3_Nesteruk\OOP_Lab3_Nesteruk\obj\Debug\net8.0\OOP_Lab3_Nesteruk.pdb
+C:\Users\Zuzi\Desktop\Khai\PySec\Lab1\OOP_Lab3_Nesteruk\OOP_Lab3_Nesteruk\obj\Debug\net8.0\OOP_Lab3_Nesteruk.genruntimeconfig.cache
+C:\Users\Zuzi\Desktop\Khai\PySec\Lab1\OOP_Lab3_Nesteruk\OOP_Lab3_Nesteruk\obj\Debug\net8.0\ref\OOP_Lab3_Nesteruk.dll
+D:\Перенос\Khai\OOP\Lab - 3\OOP_Lab3_Nesteruk\OOP_Lab3_Nesteruk\bin\Debug\net8.0\OOP_Lab3_Nesteruk.exe
+D:\Перенос\Khai\OOP\Lab - 3\OOP_Lab3_Nesteruk\OOP_Lab3_Nesteruk\bin\Debug\net8.0\OOP_Lab3_Nesteruk.deps.json
+D:\Перенос\Khai\OOP\Lab - 3\OOP_Lab3_Nesteruk\OOP_Lab3_Nesteruk\bin\Debug\net8.0\OOP_Lab3_Nesteruk.runtimeconfig.json
+D:\Перенос\Khai\OOP\Lab - 3\OOP_Lab3_Nesteruk\OOP_Lab3_Nesteruk\bin\Debug\net8.0\OOP_Lab3_Nesteruk.dll
+D:\Перенос\Khai\OOP\Lab - 3\OOP_Lab3_Nesteruk\OOP_Lab3_Nesteruk\bin\Debug\net8.0\OOP_Lab3_Nesteruk.pdb
+D:\Перенос\Khai\OOP\Lab - 3\OOP_Lab3_Nesteruk\OOP_Lab3_Nesteruk\obj\Debug\net8.0\OOP_Lab3_Nesteruk.GeneratedMSBuildEditorConfig.editorconfig
+D:\Перенос\Khai\OOP\Lab - 3\OOP_Lab3_Nesteruk\OOP_Lab3_Nesteruk\obj\Debug\net8.0\OOP_Lab3_Nesteruk.AssemblyInfoInputs.cache
+D:\Перенос\Khai\OOP\Lab - 3\OOP_Lab3_Nesteruk\OOP_Lab3_Nesteruk\obj\Debug\net8.0\OOP_Lab3_Nesteruk.AssemblyInfo.cs
+D:\Перенос\Khai\OOP\Lab - 3\OOP_Lab3_Nesteruk\OOP_Lab3_Nesteruk\obj\Debug\net8.0\OOP_Lab3_Nesteruk.csproj.CoreCompileInputs.cache
+D:\Перенос\Khai\OOP\Lab - 3\OOP_Lab3_Nesteruk\OOP_Lab3_Nesteruk\obj\Debug\net8.0\OOP_Lab3_Nesteruk.dll
+D:\Перенос\Khai\OOP\Lab - 3\OOP_Lab3_Nesteruk\OOP_Lab3_Nesteruk\obj\Debug\net8.0\refint\OOP_Lab3_Nesteruk.dll
+D:\Перенос\Khai\OOP\Lab - 3\OOP_Lab3_Nesteruk\OOP_Lab3_Nesteruk\obj\Debug\net8.0\OOP_Lab3_Nesteruk.pdb
+D:\Перенос\Khai\OOP\Lab - 3\OOP_Lab3_Nesteruk\OOP_Lab3_Nesteruk\obj\Debug\net8.0\OOP_Lab3_Nesteruk.genruntimeconfig.cache
+D:\Перенос\Khai\OOP\Lab - 3\OOP_Lab3_Nesteruk\OOP_Lab3_Nesteruk\obj\Debug\net8.0\ref\OOP_Lab3_Nesteruk.dll
